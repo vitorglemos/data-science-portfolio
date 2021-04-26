@@ -16,11 +16,20 @@ My personal data science and machine learning portfolio
 
 # Public projects
 ## Kaggle Competitions 
-- RANZCR CLiP - Catheter and Line Position Challenge: *Classify the presence and correct placement of tubes on chest x-rays to save lives* <a href="https://www.kaggle.com/c/ranzcr-clip-catheter-line-classification"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open In Kaggle"></a>
-- Cassava Leaf Disease Classification: *Identify the type of disease present on a Cassava Leaf image* <a href="https://www.kaggle.com/c/cassava-leaf-disease-classification"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open In Kaggle"></a>
-- Titanic, Machine Learning from Disaster: *Start here! Predict survival on the Titanic and get familiar with ML basics* <a href="https://www.kaggle.com/c/titanic"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open In Kaggle"></a>
-- Digit Recognizer: *Learn computer vision fundamentals with the famous MNIST data* <a href="https://www.kaggle.com/c/digit-recognizer"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open In Kaggle"></a>
-- Shopee, Price Match Guarantee: *Determine if two products are the same by their images* <a href="https://www.kaggle.com/c/shopee-product-matching"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open In Kaggle"></a>
+- RANZCR CLiP - Catheter and Line Position Challenge: <a href="https://www.kaggle.com/c/ranzcr-clip-catheter-line-classification"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open In Kaggle"></a>
+  * *Classify the presence and correct placement of tubes on chest x-rays to save lives* 
+  
+- Cassava Leaf Disease Classification: <a href="https://www.kaggle.com/c/cassava-leaf-disease-classification"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open In Kaggle"></a>
+  * *Identify the type of disease present on a Cassava Leaf image* 
+  
+- Titanic, Machine Learning from Disaster: <a href="https://www.kaggle.com/c/titanic"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open In Kaggle"></a>
+  * *Start here! Predict survival on the Titanic and get familiar with ML basics* 
+  
+- Digit Recognizer: <a href="https://www.kaggle.com/c/digit-recognizer"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open In Kaggle"></a>
+  * *Learn computer vision fundamentals with the famous MNIST data* 
+ 
+- Shopee, Price Match Guarantee: <a href="https://www.kaggle.com/c/shopee-product-matching"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open In Kaggle"></a>
+  * *Determine if two products are the same by their images* 
 
 ## Kaggle Kernels 
 - Multilayer perceptron from scratch <a href="https://www.kaggle.com/vitorgamalemos/multilayer-perceptron-from-scratch"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open In Kaggle"></a>
