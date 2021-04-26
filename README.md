@@ -2,9 +2,9 @@
 
 My personal data science and machine learning portfolio
 
-# research projects
+# Research projects
 
-# private projects
+# Private projects
 
 ## Security 
 - Detecting malicious domains using Natural Language Processing
@@ -14,8 +14,15 @@ My personal data science and machine learning portfolio
 - APK Malware Detection using Machine Learning Models 
 - Visual recognition (object detection) for phishing classification
 
-# public projects
+# Public projects
 ## Kaggle Competitions 
+- RANZCR CLiP - Catheter and Line Position Challenge: *Classify the presence and correct placement of tubes on chest x-rays to save lives* <a href="https://www.kaggle.com/c/ranzcr-clip-catheter-line-classification"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open In Kaggle"></a>
+- Cassava Leaf Disease Classification: *Identify the type of disease present on a Cassava Leaf image* <a href="https://www.kaggle.com/c/cassava-leaf-disease-classification"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open In Kaggle"></a>
+- Titanic, Machine Learning from Disaster: *Start here! Predict survival on the Titanic and get familiar with ML basics* <a href="https://www.kaggle.com/c/titanic"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open In Kaggle"></a>
+- Digit Recognizer: *Learn computer vision fundamentals with the famous MNIST data* <a href="https://www.kaggle.com/c/digit-recognizer"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open In Kaggle"></a>
+- Shopee, Price Match Guarantee: *Determine if two products are the same by their images* <a href="https://www.kaggle.com/c/shopee-product-matching"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open In Kaggle"></a>
+
+## Kaggle Kernels 
 - Multilayer perceptron from scratch <a href="https://www.kaggle.com/vitorgamalemos/multilayer-perceptron-from-scratch"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open In Kaggle"></a>
 - Generating fashion images using GANs <a href="https://www.kaggle.com/vitorgamalemos/generating-fashion-with-gans"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open In Kaggle"></a>
 - Started: Scikit-learn model comparison <a href="https://www.kaggle.com/vitorgamalemos/scikit-learn-model-comparison"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open In Kaggle"></a>
