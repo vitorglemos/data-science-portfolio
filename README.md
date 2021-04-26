@@ -48,3 +48,7 @@ My personal data science and machine learning portfolio
 - XGB Classifier in titanic survived dataset <a href="https://www.kaggle.com/vitorgamalemos/xgb-in-titanic-survived"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open In Kaggle"></a>
 - Multinomial logistic regression from scratch <a href="https://www.kaggle.com/vitorgamalemos/multinomial-logistic-regression-from-scratch"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open In Kaggle"></a>
 - Recognizing digits using CNN <a href="https://www.kaggle.com/vitorgamalemos/recognizing-digits-using-cnn"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open In Kaggle"></a>
+
+## Projects
+- Training Object Detection using YOLO:  <a href="https://github.com/vitorglemos/yolo-object-detection"><img src="https://github.com/vitorglemos/data-science-portfolio/blob/main/icons/GitHub-Mark-32px.png?raw=true" width="20" height="20" alt="Open In Github"></a>
+- Santander Data Challenger: <a href="https://github.com/vitorglemos/santander-data-challenger"><img src="https://github.com/vitorglemos/data-science-portfolio/blob/main/icons/GitHub-Mark-32px.png?raw=true" width="20" height="20" alt="Open In Github"></a>
