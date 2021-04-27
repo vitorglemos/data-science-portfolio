@@ -52,3 +52,8 @@ My personal data science and machine learning portfolio
 ## Projects
 - Training Object Detection using YOLO:  <a href="https://github.com/vitorglemos/yolo-object-detection"><img src="https://github.com/vitorglemos/data-science-portfolio/blob/main/icons/GitHub-Mark-32px.png?raw=true" width="20" height="20" alt="Open In Github"></a>
 - Santander Data Challenger: <a href="https://github.com/vitorglemos/santander-data-challenger"><img src="https://github.com/vitorglemos/data-science-portfolio/blob/main/icons/GitHub-Mark-32px.png?raw=true" width="20" height="20" alt="Open In Github"></a>
+
+
+## My tutorials 
+- Tensorflow tutorial:  <a href="https://github.com/vitorglemos/tensorflow-basic-operations"><img src="https://github.com/vitorglemos/data-science-portfolio/blob/main/icons/GitHub-Mark-32px.png?raw=true" width="20" height="20" alt="Open In Github"></a>
+- NVIDIA CUDA GPU using Python: <a href="https://github.com/vitorglemos/nvidia-cunn-tutorial-python"><img src="https://github.com/vitorglemos/data-science-portfolio/blob/main/icons/GitHub-Mark-32px.png?raw=true" width="20" height="20" alt="Open In Github"></a>
